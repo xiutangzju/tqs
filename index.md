@@ -31,7 +31,7 @@ Links: [bugtracker](http://bugs.mysql.com/106718)
 Severity: S2 (Serious)  
 State: Fixed  
 
-**6. Nested Null-Safe Equal gives wrong result**
+**6. Nested Null-Safe Equal gives wrong result**  
 Links: [bugtracker](https://bugs.mysql.com/bug.php?id=106611)  
 Severity: S2 (Serious)  
 State: Fixed  
@@ -100,7 +100,7 @@ State: CONFIRMED
 
 ### TiDB  
 
-**1. Incorrect Merge Join Execution when transforming hash join to merge join**
+**1. Incorrect Merge Join Execution when transforming hash join to merge join**  
 Links: [bugtracker](https://github.com/pingcap/tidb/issues/33039)  
 Severity: Critical  
 State: Fixed  
