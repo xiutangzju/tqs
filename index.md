@@ -1,5 +1,6 @@
+  
 This page lists all bug reports that we created for MySQL, MariaDB and TiDB.  
-
+  
 ## Bug List  
 
 ### MySQL  
@@ -15,7 +16,7 @@ Links: [bugtracker](https://bugs.mysql.com/bug.php?id=106715)
 Severity: S2 (Serious)  
 State: Verified  
   
-**3. Incorrect Inner hash join when transforming materialization condition.**  
+**3. Incorrect Inner hash join when transforming materialization condition**  
 Links: [bugtracker](https://bugs.mysql.com/bug.php?id=106716)  
 Severity: S2 (Serious)  
 State: Verified  
@@ -63,7 +64,7 @@ State: Verified
   
 
 ### MariaDB
-
+  
 **1. Incorrect Join Execution When Controlling BKA and BKAH Join Algorithms**  
 Links: [bugtracker](https://jira.mariadb.org/browse/MDEV-28214)  
 Priority: Major  
@@ -118,9 +119,9 @@ State: Fixed
 Links: [bugtracker](https://github.com/pingcap/tidb/issues/33045)  
 Severity: Critical  
 State: Fixed  
+  
 
-
-**5. Merge Join executed incorrect resultset which missed rows**
+**5. Merge Join executed incorrect resultset which missed rows**  
 Links: [bugtracker](https://github.com/pingcap/tidb/issues/33046)  
 Severity: Critical  
 State: Fixed  
